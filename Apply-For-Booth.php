@@ -148,7 +148,7 @@
                         </div>
                     </li>
                     <li class="form-row clearfix">
-                        <p class="form-name  fl">联系电话：</p>
+                        <p class="form-name  fl">联系电话：<span class="fwb navcureent pl10">*</span></p>
                         <div class="form-row-box comp fl">
                             <input type="text" class="form-input w120 mr5 dianh-r" id="txtPhoneCountry" placeholder="国家">
                             <input type="text" class="form-input w143 mr5 dianh-r" id="txtPhoneArea" placeholder="区号">
@@ -161,7 +161,7 @@
                         <div class="form-row-box comp fl">
                             <input type="text" class="form-input w120 mr5 dianh-r" id="txtPhoneCountry" placeholder="国家">
                             <input type="text" class="form-input w143 mr5 dianh-r" id="txtPhoneArea" placeholder="区号">
-                            <input type="text" id="txtPhone" class="form-input w380" placeholder="电话号码">
+                            <input type="text" id="txtPhone" class="form-input w380" placeholder="传真号码">
                             <span class="checkTips"></span>
                         </div>
                     </li>
